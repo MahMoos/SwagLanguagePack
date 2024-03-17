@@ -23,7 +23,7 @@ use Symfony\Component\DependencyInjection\ContainerInterface;
 class SwagLanguagePack extends Plugin
 {
     public const SUPPORTED_LANGUAGES = [
-        'العربية' => 'ar-SA'
+        'العربية' => 'ar-SA',
         'Bahasa Indonesia' => 'id-ID',
         'Bosanski' => 'bs-BA',
         'български език' => 'bg-BG',
